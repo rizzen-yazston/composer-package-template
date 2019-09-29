@@ -74,4 +74,4 @@ Simple process:
 Rizzen Yazston
 
 ## License
-This Composer template is released under the BSD-3-Clause license, see included LICENSE file.
+This Composer template is released under the MIT license, see included LICENSE file.
